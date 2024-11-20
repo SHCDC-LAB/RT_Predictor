@@ -9,10 +9,12 @@ This repository provides tools and models for predicting retention times (RT) of
 ### 1. Source Domain Model
 - **Input Data**: Electrospray Ionization (ESI, positive mode) data from 823 molecules.
 - **Dataset Composition**:
-  - Pesticides
+  - Pesticides and pesticide transformed products
   - Veterinary drugs
   - Sunscreens
   - Environmental phenols
+  - PFAS
+  - antiseptic
 
 ### 2. Transfer Learning
 - **Training Data**: ESI (negative mode) data from 325 molecules.
@@ -54,4 +56,4 @@ This repository provides tools and models for predicting retention times (RT) of
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/RetentionTime-Prediction.git
+   git clone https://github.com/SHCDC-LAB/RT_Predictor.git
