@@ -25,8 +25,8 @@ This repository provides tools and models for predicting retention times (RT) of
   - 1,247 molecules
   - Reference: [PMID: 31450217](https://doi.org/10.1016/j.watres.2019.114972)
 - **Mass Spectrometry Databases**:
-  - MassBank: 100,000 spectra ([MassBank-data](https://github.com/MassBank/MassBank-data/releases/latest))
-  - MzCloud: 8,990 spectra ([MzCloud](https://www.mzcloud.org/))
+  - MassBank: 100,000+ spectra ([MassBank-data](https://github.com/MassBank/MassBank-data/releases/latest))
+  - MzCloud: 8,990+ spectra ([MzCloud](https://www.mzcloud.org/))
 - **Human Exposure Compounds**:
   - 17,400+ prioritized compounds
   - Reference: [PMID: 33929905](https://doi.org/10.1289/EHP7722), [PMC: PMC8086799](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086799/)
