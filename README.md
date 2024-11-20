@@ -14,7 +14,7 @@ This repository provides tools and models for predicting retention times (RT) of
   - Sunscreens
   - Environmental phenols
   - PFAS
-  - antiseptic
+  - Antiseptic
 
 ### 2. Transfer Learning
 - **Training Data**: ESI (negative mode) data from 325 molecules.
